@@ -1,0 +1,6 @@
+{
+  "name": "LockerBuddy Smart School Assistant",
+  "description": "Smart Locker & School Assistant web application for 6th and 7th grade students, teachers, and parents with live timetable sync, charts, Paripath board, locker logs, and AI voice assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
